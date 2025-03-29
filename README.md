@@ -26,3 +26,11 @@
 1. **Clone the project**:  
    ```bash
    git clone https://github.com/YourUsername/PixelRetroClicker.git
+
+
+## 🤝 Contributors  
+- Art: [@PixelArtist](https://github.com/PixelArtist)  
+- Testing: [@GameTester](https://github.com/GameTester)  
+
+## 📌 Roadmap  
+- [x] Core clicker mechanics   

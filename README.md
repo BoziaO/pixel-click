@@ -5,10 +5,6 @@
 [![Unity Version](https://img.shields.io/badge/Unity-2021.3%2B-blue.svg)](https://unity.com)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)  
 
-<p align="center">
-  <img src="https://github.com/YourUsername/PixelRetroClicker/raw/main/Assets/Sprites/screenshot.png" width="600" alt="Game Screenshot">
-</p>
-
 ---
 
 ## ✨ Features  
@@ -26,11 +22,31 @@
 1. **Clone the project**:  
    ```bash
    git clone https://github.com/YourUsername/PixelRetroClicker.git
+   ```
+2. **Open in Unity** (2021.3 or newer)
+3. **Run the scene ``Assets/Scenes/MainScene.unity``**
+   Or download the <a href="">latest release</a>!
 
+## 🛠 Modding Guide
+Customize the game by editing:
+
+```Assets/Scripts/Weapons/WeaponList.cs``` – Add new weapons
+
+```Assets/Resources/Bosses/``` – Add boss sprites
+
+```Assets/Scripts/Achievements/AchievementData.cs``` – Create new challenges
+
+## 📜 License
+MIT License – Free for personal and commercial use (with attribution).
 
 ## 🤝 Contributors  
-- Art: [@PixelArtist](https://github.com/PixelArtist)  
-- Testing: [@GameTester](https://github.com/GameTester)  
+- Art:
+- music:
 
 ## 📌 Roadmap  
-- [x] Core clicker mechanics   
+- [x] Core clicker mechanics
+- [ ] fight system
+- [ ] new graphic
+- [ ] new weapons
+
+<p align="center"> ❤️ Crafted with passion by <a href="https://github.com/BoziaO">BoziaO</a> ❤️ </p>

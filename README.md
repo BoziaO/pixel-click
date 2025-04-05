@@ -40,7 +40,7 @@ Customize the game by editing:
 MIT License – Free for personal and commercial use (with attribution).
 
 ## 🤝 Contributors  
-- Art:
+- Art: RobakNaStole
 - music:
 
 ## 📌 Roadmap  

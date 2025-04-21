@@ -46,7 +46,10 @@ MIT License – Free for personal and commercial use (with attribution).
 ## 📌 Roadmap  
 - [x] Core clicker mechanics
 - [x] fight system
-- [ ] new graphic
 - [x] new weapons
+- [ ] new graphic
+- [ ] arena
+- [ ] settings
+- [ ] music
 
 <p align="center"> ❤️ Crafted with passion by <a href="https://github.com/BoziaO">BoziaO</a> ❤️ </p>
